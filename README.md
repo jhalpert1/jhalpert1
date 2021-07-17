@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @jhalpert1
 - 👀 I’m interested in DEFCON29
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me @Jim37155835
+- 🏢 DunderMuffin
 
 <!---
 jhalpert1/jhalpert1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
